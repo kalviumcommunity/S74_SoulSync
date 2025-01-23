@@ -27,3 +27,5 @@ MoodMate aims to inspire and comfort users while offering actionable help in cri
 
 ### Feedback System
 - Users can rate the relevance of quotes to improve future suggestions.
+
+
