@@ -1,15 +1,14 @@
-
-**# MoodMate: Personalized Inspiration and Support**
+## SoulSync: Personalized Inspiration and Support
 
 ## Project Title
-**MoodMate**
+**SoulSync**
 
 ## Idea
-MoodMate is a web/app designed to uplift users by providing meaningful quotes or 
+SoulSync is a web/app designed to uplift users by providing meaningful quotes or 
 proverbs tailored to their feelings. With features like emotion-based suggestions, deep personalization, 
 and critical support 
 connections, 
-MoodMate aims to inspire and comfort users while offering actionable help in critical moments.
+SoulSync aims to inspire and comfort users while offering actionable help in critical moments.
 
 ## Features
 
