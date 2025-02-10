@@ -1,10 +1,11 @@
 
-**# SoulSync: Personalized Inspiration and Support**
+# SoulSync: Personalized Inspiration and Support
 
-## Project Title
-**SoulSync**
+# Project Title
 
-## Idea
+# SoulSync
+
+# Idea
 SoulSync is a web/app designed to uplift users by providing meaningful quotes or 
 proverbs tailored to their feelings. With features like emotion-based suggestions, deep personalization, 
 and critical support 
