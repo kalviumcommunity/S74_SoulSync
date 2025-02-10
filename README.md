@@ -1,10 +1,11 @@
 
-**# SoulSync: Personalized Inspiration and Support**
+# SoulSync: Personalized Inspiration and Support
 
-## Project Title
-**SoulSync**
+# Project Title
 
-## Idea
+# SoulSync
+
+# Idea
 SoulSync is a web/app designed to uplift users by providing meaningful quotes or 
 proverbs tailored to their feelings. With features like emotion-based suggestions, deep personalization, 
 and critical support 
@@ -18,7 +19,9 @@ SoulSync aims to inspire and comfort users while offering actionable help in cri
 - Automation using AI.
 
 ### Critical Support Connection
-- For sensitive or critical inputs, the app suggests connecting with trusted contacts (e.g., mom, friend) or professionals like psychiatrists .
+
+- For sensitive or critical inputs, the app suggests connecting with trusted contacts (e.g., mom, friend) or professionals like psychiatrists 
+
 
 
 
