@@ -21,4 +21,8 @@ SoulSync aims to inspire and comfort users while offering actionable help in cri
 - For sensitive or critical inputs, the app suggests connecting with trusted contacts (e.g., mom, friend) or professionals like psychiatrists .
 
 
-
+# Deployment link 
+ - Using render for easy containerized Deployment Render runs your Node.js app inside a secure container and helps in Auto Scaling: It adjusts resources
+ based on traffic.
+ Render can be used for easy Deployment.
+ 
